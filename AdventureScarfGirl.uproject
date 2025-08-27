@@ -34,5 +34,8 @@
 			"Name": "ActorLocker",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
